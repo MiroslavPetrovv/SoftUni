@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Miroslav\\Documents\\GitHub\\SoftUni\\EF - Core - Exericses\\BookShop\\BookShop.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Miroslav\\Documents\\GitHub\\SoftUni\\EF - Core - Exericses\\BookShop\\BookShop.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Miroslav\\Documents\\GitHub\\SoftUni\\EF - Core - Exericses\\BookShop\\BookShop.csproj",
+        "projectName": "BookShop",
+        "projectPath": "C:\\Users\\Miroslav\\Documents\\GitHub\\SoftUni\\EF - Core - Exericses\\BookShop\\BookShop.csproj",
+        "packagesPath": "C:\\Users\\Miroslav\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Miroslav\\Documents\\GitHub\\SoftUni\\EF - Core - Exericses\\BookShop\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Miroslav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Miroslav\\Documents\\GitHub\\SoftUni\\EF - Core - Exericses\\BookShop.Data\\BookShop.Data.csproj": {
+                "projectPath": "C:\\Users\\Miroslav\\Documents\\GitHub\\SoftUni\\EF - Core - Exericses\\BookShop.Data\\BookShop.Data.csproj"
+              },
+              "C:\\Users\\Miroslav\\Documents\\GitHub\\SoftUni\\EF - Core - Exericses\\BookShop.Initializer\\BookShop.Initializer.csproj": {
+                "projectPath": "C:\\Users\\Miroslav\\Documents\\GitHub\\SoftUni\\EF - Core - Exericses\\BookShop.Initializer\\BookShop.Initializer.csproj"
+              },
+              "C:\\Users\\Miroslav\\Documents\\GitHub\\SoftUni\\EF - Core - Exericses\\BookShop.Models\\BookShop.Models.csproj": {
+                "projectPath": "C:\\Users\\Miroslav\\Documents\\GitHub\\SoftUni\\EF - Core - Exericses\\BookShop.Models\\BookShop.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
